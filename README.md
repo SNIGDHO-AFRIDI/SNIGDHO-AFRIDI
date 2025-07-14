@@ -1,9 +1,26 @@
-<!-- Profile Title & Typing Animation -->
+<!-- RGB Animated Name (NO typing SVG) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=🔥+SNIGDHO+AFRIDI+🔥;🇧🇩+From+Bangladesh;Future+Boss+Level+Developer" alt="Typing SVG" />
+  <span style="
+    font-size: 42px;
+    font-weight: bold;
+    background: linear-gradient(270deg, #ff0000, #ff7300, #ffeb00, #47ff00, #00ffee, #2b65ff, #8000ff, #ff0000);
+    background-size: 1600% 1600%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rgbText 10s ease infinite;
+    display: inline-block;">
+    SNIGDHO AFRIDI
+  </span>
 </h1>
 
-<!-- Top GIF -->
+<style>
+@keyframes rgbText {
+  0% {background-position: 0% 50%;}
+  50% {background-position: 100% 50%;}
+  100% {background-position: 0% 50%;}
+}
+</style>
+
 <p align="center">
   <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="500" />
 </p>
@@ -15,42 +32,44 @@
 ```yaml
 👤 Name: Snigdho Afridi
 🌍 Country: Bangladesh
-💬 Languages: Bengali, English
 🎯 Goal: Become a Boss-Level Full Stack Developer
+💬 Languages: Bengali, English
 💡 Motto: Never Stop Learning 🚀
 ```
 
 ---
 
-## 🔥 Tech Stack
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,github,vscode,linux,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,github,vscode,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SnigdhoAfridi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SnigdhoAfridi&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SNIGDHO-AFRIDI&theme=github-compact&hide_border=true" width="95%"/>
 </p>
 
 ---
 
-## 🌍 Contribution Graph
+## 📊 Developer Metrics (Alt of GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnigdhoAfridi&theme=react-dark&hide_border=true" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SNIGDHO-AFRIDI&theme=tokyonight" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SNIGDHO-AFRIDI&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SNIGDHO-AFRIDI&theme=tokyonight" />
 </p>
 
 ---
 
-## 👥 Visitor Count
+## 👥 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SnigdhoAfridi&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SNIGDHO-AFRIDI&label=Visitors&color=blue&style=flat" />
 </p>
 
 ---
@@ -68,7 +87,7 @@
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 Dev Quote
 
 > “Code like no one is watching, debug like the whole team is blaming you.”  
 > — _Snigdho Afridi_
@@ -81,4 +100,4 @@
 
 ---
 
-<p align="center">🔥 Thanks for visiting my GitHub! Keep Hustling 🔥</p>
+<p align="center">🔥 Thanks for visiting my GitHub! Stay Boss-Level Always 🔥</p>
