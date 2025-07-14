@@ -1,22 +1,44 @@
-<!-- 🔥 README for Snigdho Afridi -->
-
-<!-- ✨ Glowing Branding Name -->
+<!-- HEADER: RGB Animated Name with gradient background -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=🌟+S.N.I.G.D.H.O+%E2%80%94+The+Code+Creative+%F0%9F%92%BB;From+Learning+to+Earning+%F0%9F%92%B8;Welcome+to+My+Tech+World+%F0%9F%8C%90" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🔥+Snigdho+Afridi+🔥;🇧🇩+From+Bangladesh;Future+Boss+Level+Developer" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="800" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="600" />
+</div>
 
 ---
 
-## 🧠 About Me
+## 🌟 About Me
 
 ```yaml
-Name: Snigdho Afridi
-Location: Bangladesh 🇧🇩
-Role: Student | Dreamer | Programmer | Content Creator
-Vision: Create, Teach & Inspire
-Learning: Python, Web Dev, AI Tools
-Goal: Turn Creativity into Code 🔥
+👤 Name: Snigdho Afridi
+🌍 Country: Bangladesh
+💬 Languages: Bengali, English
+🎯 Goal: Become a Boss-Level Full Stack Developer
+💡 Motto: Never Stop Learning 🚀
+
+journey
+    title Learning Path to Dev Boss 😎
+    section Basics
+      HTML & CSS: 2024-01 : 2024-02
+      JavaScript: 2024-02 : 2024-04
+    section Frameworks
+      React JS: 2024-05 : Ongoing
+    section Tools
+      Git & GitHub: 2024-06 : Ongoing
+    section Upcoming
+      Node.js, MongoDB: Planning
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SnigdhoAfridi&show_icons=true&theme=radical" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnigdhoAfridi&theme=radical&hide_border=false" height="170" /> </div>
+
+<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SnigdhoAfridi&theme=dracula&hide_border=true" width="90%"/> </p>
+
+<div align="center"> <a href="https://wa.me/8801871778635" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-%2B8801871778635-success?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> <a href="https://www.facebook.com/share/16WVuz42uy/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-Snigdho-blue?style=for-the-badge&logo=facebook&logoColor=white" /> </a> </div>
+
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,github,vscode" /> </div>
+“Code like no one is watching, debug like the whole team is blaming you.”
+— Snigdho Afridi
+
+<p align="center"> <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230D1117&textColor=%23FFFFFF" /> </p>
+
+
