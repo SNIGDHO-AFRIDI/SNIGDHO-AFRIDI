@@ -1,25 +1,7 @@
-<!-- RGB Animated Name (NO typing SVG) -->
+<!-- ✅ RGB-Styled Static Name Image (Typing SVG Removed) -->
 <h1 align="center">
-  <span style="
-    font-size: 42px;
-    font-weight: bold;
-    background: linear-gradient(270deg, #ff0000, #ff7300, #ffeb00, #47ff00, #00ffee, #2b65ff, #8000ff, #ff0000);
-    background-size: 1600% 1600%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: rgbText 10s ease infinite;
-    display: inline-block;">
-    SNIGDHO AFRIDI
-  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=1000&lines=SNIGDHO+AFRIDI" alt="SNIGDHO AFRIDI" />
 </h1>
-
-<style>
-@keyframes rgbText {
-  0% {background-position: 0% 50%;}
-  50% {background-position: 100% 50%;}
-  100% {background-position: 0% 50%;}
-}
-</style>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="500" />
@@ -55,7 +37,7 @@
 
 ---
 
-## 📊 Developer Metrics (Alt of GitHub Stats)
+## 📊 Developer Metrics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SNIGDHO-AFRIDI&theme=tokyonight" />
@@ -100,4 +82,4 @@
 
 ---
 
-<p align="center">🔥 Thanks for visiting my GitHub! Stay Boss-Level Always 🔥</p>
+<p align="center">🔥 Thanks for visiting my GitHub! Stay </p>
