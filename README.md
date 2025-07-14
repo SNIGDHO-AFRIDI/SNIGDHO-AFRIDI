@@ -17,7 +17,13 @@
 💬 Languages: Bengali, English
 🎯 Goal: Become a Boss-Level Full Stack Developer
 💡 Motto: Never Stop Learning 🚀
+```
 
+---
+
+## 📈 Learning Journey
+
+```mermaid
 journey
     title Learning Path to Dev Boss 😎
     section Basics
@@ -29,16 +35,59 @@ journey
       Git & GitHub: 2024-06 : Ongoing
     section Upcoming
       Node.js, MongoDB: Planning
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SnigdhoAfridi&show_icons=true&theme=radical" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnigdhoAfridi&theme=radical&hide_border=false" height="170" /> </div>
+```
 
-<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SnigdhoAfridi&theme=dracula&hide_border=true" width="90%"/> </p>
+---
 
-<div align="center"> <a href="https://wa.me/8801871778635" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-%2B8801871778635-success?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> <a href="https://www.facebook.com/share/16WVuz42uy/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-Snigdho-blue?style=for-the-badge&logo=facebook&logoColor=white" /> </a> </div>
+## 📊 GitHub Stats
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,github,vscode" /> </div>
-“Code like no one is watching, debug like the whole team is blaming you.”
-— Snigdho Afridi
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SnigdhoAfridi&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnigdhoAfridi&theme=radical&hide_border=false" height="170" />
+</div>
 
-<p align="center"> <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230D1117&textColor=%23FFFFFF" /> </p>
+---
 
+## 🔥 Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SnigdhoAfridi&theme=dracula&hide_border=true" width="90%"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://wa.me/8801871778635" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B8801871778635-success?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/16WVuz42uy/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Snigdho-blue?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,github,vscode" />
+</div>
+
+---
+
+## 🧠 Random Dev Quote
+
+> “Code like no one is watching, debug like the whole team is blaming you.”  
+> — _Snigdho Afridi_
+
+---
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230D1117&textColor=%23FFFFFF" />
+</p>
+
+---
+
+<p align="center">💥 Thank you for visiting my Profile. Stay connected! 💥</p>
